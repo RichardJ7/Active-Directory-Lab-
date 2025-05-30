@@ -4,14 +4,17 @@
 
 
 <h2>Description</h2>
-This project 
+This project showcases the ability to utilize Active Directory in relation to user and group management. Through Active Directory, I practiced the ability to create new users, new groups and authorize password resets for users with issues. 
 <br />
 
 
-<h2>Creation of Developer Instance </h2>
-Lab begins with first creating an account to begin the free developer instance of ServiceNow. I utilized Google to search for an accessible site that would allow me to replicate ServiceNow. The exact search which yielded the results was ServiceNow developer instance free. After accessing this, I created an account so that I can now emulate what it would resemble to work with ServiceNow. 
+<h2>Creating a New User </h2>
+ 
 
-<h2>Types of Tickets </h2>
-After navigating to the incidents page, I am able to explore ticket interface and navigate the interface and search options to search the various types of tickets that can be created. I am able to see that additionally, I can update the status of the tickets directly from the interface and resolve these tickets. 
+<h2>Creating a New Group </h2>
+
+<h2>Adding User to Group</h2>
+
+<h2>Password Reset</h2>
 
 
